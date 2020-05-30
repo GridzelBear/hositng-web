@@ -1,0 +1,12 @@
+
+.navbar-nav a {
+    margin: 0 7px 0 7px;
+  }  
+
+#pricing-table {
+    margin: 100px auto 50px auto;
+    padding: 0 auto 0 auto;
+    text-align: center;
+    width: 720px;
+  }
+  
